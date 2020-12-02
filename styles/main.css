@@ -16,3 +16,9 @@ body {
     max-width: 600px;
     margin: auto;
 }
+a {
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    color: var(--primary);
+    text-decoration: none;
+}
