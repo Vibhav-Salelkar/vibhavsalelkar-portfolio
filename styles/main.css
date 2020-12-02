@@ -13,7 +13,7 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
-    max-width: 600px;
+    max-width: 100%;
     margin: auto;
 }
 a {
@@ -43,4 +43,6 @@ a {
 
 .nav ul {
     text-align: right;
+    margin-right: 2rem;
+    font-size:0.9rem;
 }
