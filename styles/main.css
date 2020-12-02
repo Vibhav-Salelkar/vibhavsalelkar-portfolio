@@ -46,3 +46,17 @@ a {
     margin-right: 2rem;
     font-size:0.9rem;
 }
+.primary-link {
+   display: block;
+   color: var(--primary);
+   text-decoration: none;
+   font-size: 1.1rem;
+   padding: 0.5rem;
+}
+.secondary-link {
+    display: block;
+    color: var(--secondary);
+    text-decoration: none;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+ }
