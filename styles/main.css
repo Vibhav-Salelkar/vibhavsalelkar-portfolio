@@ -119,8 +119,13 @@ footer li {
     padding-top:0.5rem;
     font-size:0.6rem;
 }
+.projects{
+    padding-bottom: 10rem;
+}
 .projects article{
     padding: 2rem 4rem 2rem 4rem;
+    border: 1px solid #6271fd;
+    margin: 1rem 4rem 1rem 0;
 }
 .projects ul{
     list-style: none;
@@ -128,5 +133,12 @@ footer li {
 .projects .date {
     margin-bottom: 0.7rem;
     font-size: 0.8rem;
- }
-
+}
+.projects a{
+    font-size: 0.8rem;
+    padding-left: 0px;
+}
+.projects p{
+    line-height: 1.4rem;
+    font-size:0.9rem;
+}
