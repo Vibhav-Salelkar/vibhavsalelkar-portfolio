@@ -119,4 +119,14 @@ footer li {
     padding-top:0.5rem;
     font-size:0.6rem;
 }
+.projects article{
+    padding: 2rem 4rem 2rem 4rem;
+}
+.projects ul{
+    list-style: none;
+}
+.projects .date {
+    margin-bottom: 0.7rem;
+    font-size: 0.8rem;
+ }
 
