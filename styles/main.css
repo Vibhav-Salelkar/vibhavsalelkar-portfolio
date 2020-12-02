@@ -79,6 +79,9 @@ header .hero {
     display: block;
     max-width: 300px;
 }
+.logo{
+    font-size:0.9rem;
+}
 .bg-ow {
     background-color: var(--off-white);
 }
