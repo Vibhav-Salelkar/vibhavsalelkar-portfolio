@@ -79,3 +79,8 @@ header .hero {
 .bg-ow {
     background-color: var(--off-white);
 }
+section {
+    padding: 2rem 1.5rem 2rem 1.5rem;
+    text-align:center;
+    display: inline-block;
+}
