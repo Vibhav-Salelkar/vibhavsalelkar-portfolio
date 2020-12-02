@@ -60,3 +60,7 @@ a {
     font-size: 1.1rem;
     padding: 0.5rem;
  }
+header {
+    padding: 2rem 1.5rem 2rem 1.5rem;
+    text-align:center;
+}
