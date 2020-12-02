@@ -22,3 +22,25 @@ a {
     color: var(--primary);
     text-decoration: none;
 }
+.nav {
+    padding: 1rem 1rem 0rem 1rem;
+    background-color: var(--off-white);
+}
+
+.nav .active {
+    font-weight: bolder;
+}
+
+.nav .logo {
+    font-weight: bolder;
+    color: var(--primary-dark);
+}
+
+.nav li {
+    display: inline-block;
+    padding: 0.5rem;
+}
+
+.nav ul {
+    text-align: right;
+}
